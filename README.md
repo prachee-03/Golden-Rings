@@ -1,4 +1,4 @@
-# Golden-Rings
+# Golden-Rings - Straight of the couch
 Team Name: Straight of the couch<br>
 Our website first dispays a brief introduction to Golden rings.<br>
 If a user wishes to host an event with us they need to go to registrations and then go to 'Host your event' button and register their event.<br>
